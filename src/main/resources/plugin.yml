@@ -1,0 +1,7 @@
+name: ClaimBlockFix
+version: '${version}'
+main: me.rexoz.xyz.snea7erhed.Main
+description: hClaims blok kırma engelleme
+authors: [ LosKros Rexoz ]
+depend:
+  - hClaims
